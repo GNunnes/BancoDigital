@@ -1,5 +1,11 @@
 # 💸 Banco Digital em Python (Console App)
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Projeto-Concluído-success?style=flat&logo=github)
+![License](https://img.shields.io/badge/Licença-MIT-green)
+![Tech](https://img.shields.io/badge/Tecnologia-Console%20App%20💻-purple)
+
+
 Este é um projeto simples e didático de um sistema bancário no terminal feito em Python. Ele permite **depósitos, saques, consulta de extrato** e possui regras como **limite por saque** e **número máximo de saques diários**.
 
 ## 🚀 Funcionalidades
